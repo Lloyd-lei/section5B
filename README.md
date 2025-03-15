@@ -33,11 +33,3 @@ python Task1_FermiDirac/solution.py
 python Task2_BEC/k_with_BEC/bec_simulation.py
 # etc.
 ```
-
-## Author
-
-[Your Name]
-
-## License
-
-MIT 
